@@ -1,0 +1,21 @@
+# --- Unity Folders to Ignore ---
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# --- Asset Store and Editor ---
+/[Aa]ssets/AssetStoreTools*
+/[Aa]ssets/Plugins/Editor/JetBrains*
+.vs/
+.gradle/
+ExportedObj/
+.plastic/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
